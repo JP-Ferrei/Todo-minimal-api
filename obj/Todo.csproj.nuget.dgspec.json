@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\projetos\\Todo\\Todo.csproj": {}
+    "C:\\Fontes\\Todo-minimal-api\\todo.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\projetos\\Todo\\Todo.csproj": {
+    "C:\\Fontes\\Todo-minimal-api\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\projetos\\Todo\\Todo.csproj",
-        "projectName": "Todo",
-        "projectPath": "D:\\Dev\\projetos\\Todo\\Todo.csproj",
-        "packagesPath": "C:\\Users\\jpfdc\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\projetos\\Todo\\obj\\",
+        "projectUniqueName": "C:\\Fontes\\Todo-minimal-api\\todo.csproj",
+        "projectName": "todo",
+        "projectPath": "C:\\Fontes\\Todo-minimal-api\\todo.csproj",
+        "packagesPath": "C:\\Users\\Dev2\\.nuget\\packages\\",
+        "outputPath": "C:\\Fontes\\Todo-minimal-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jpfdc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,11 +54,11 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[6.2.3, )"
             },
-            "Swashbuckle.AspNetCore.SwaggerGen": {
+            "Swashbuckle.AspNetCore.SwaggerUI": {
               "target": "Package",
               "version": "[6.2.3, )"
             }
